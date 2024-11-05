@@ -87,7 +87,7 @@ droughtMap <- tm_shape(dataDroughtSelected) +
   # )+
   tm_add_legend(type = 'title', title='Fuente: \n https://smn.conagua.gob.mx/es/climatologia/monitor-de-sequia/monitor-de-sequia-en-mexico', col = 'white', border.col = 'white', size=20)+
   tm_layout(
-    main.title = 'Sequía en México en Octubre\nComparativa\núltimos 5 años',
+    main.title = 'Sequía en México en Octubre\nComparativa\núltimos 6 años',
     main.title.size = 0.5,
     main.title.position = 'left',
     legend.outside=TRUE,
