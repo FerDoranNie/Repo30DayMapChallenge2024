@@ -14,11 +14,22 @@ library(ggplot2)
 library(purrr)
 library(stringi)
 
+## Origin of data
+# https://datos.cdmx.gob.mx/dataset/afluencia-diaria-del-metro-cdmx
+# https://datos.cdmx.gob.mx/dataset/lineas-y-estaciones-del-metro/resource/0869e0dd-6876-4446-a199-8f670a359c00
+# https://datos.cdmx.gob.mx/dataset/alcaldias
+
+
 setwd('C:/Users/fernando.dorantes/local/Git_repositories/')
+
+# Load Data ---------------------------------------------------------------
 
 dataMetro <- fread('Repo30DayMapChallenge2024/Data/afluenciastc_simple_02_2024.csv')
 mapaMetro <- st_read('Repo30DayMapChallenge2024/Data/stcmetro_shp/STC_Metro_estaciones_utm14n.shp')
 alcaldias <- st_read('Repo30DayMapChallenge2024/Data/alcaldias_cdmx/poligonos_alcaldias_cdmx.shp')
+
+
+# Data Manipulation  ---------------------------------------------------------------
 
 names(dataMetro) <- tolower(names(dataMetro))
 names(mapaMetro) <- tolower(names(mapaMetro))
