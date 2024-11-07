@@ -48,3 +48,17 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 ![Dia 6](images/Atlas%20de%20riesgos%20CDMX.png)
 
 
+
+## Día 7:
+### Mapa de densidad poblacional y población total por colonia en la CDMX
+#### Software utilizado:
+- Python
+
+#### Origen de los datos
+- [Datos de densidad por colonia](https://datos.cdmx.gob.mx/dataset/atlas-de-riesgo-sismico)
+
+[Mapa en Tableau Public](https://public.tableau.com/views/DensidadPoblacionalCDMX/CDMXTotalPopulationandDensity?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+![Dia 7](images/CDMX%20Total%20Population%20and%20Density.png)
+
