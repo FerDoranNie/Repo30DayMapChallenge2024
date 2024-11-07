@@ -30,3 +30,21 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 - [Mapa de municipios](http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/dipol/mupal/mun23gw)
 
 ![Dia 5](images/Drought_map_last_5_years_mexico.png)
+
+
+
+## Día 6:
+### Atlas de riesgo sísmico y de inundación de la CDMX
+#### Software utilizado:
+- R
+
+#### Origen de los datos
+- [Datos de atlas de riesgo sísmico](https://datos.cdmx.gob.mx/dataset/atlas-de-riesgo-sismico)
+- [Datos de atlas de inundación ](https://datos.cdmx.gob.mx/dataset/atlas-de-riesgo-inundaciones)
+
+[Mapa en Tableau Public](https://public.tableau.com/views/AtlasderiesgosCDMX/AtlasderiesgosCDMX?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+![Dia 6](images/Atlas%20de%20riesgos%20CDMX.png)
+
+
