@@ -8,6 +8,7 @@
 
 import geopandas as gpd
 import pandas as pd 
+# Origen de los datos https://datos.cdmx.gob.mx/dataset/atlas-de-riesgo-sismico
 
 popDensity = gpd.read_file('C:/Users/fernando.dorantes/local/Git_repositories/Repo30DayMapChallenge2024/Data/densidad_poblacion_2010/densidad_poblacion_2010/densidadpoblacion2010.shp')
 

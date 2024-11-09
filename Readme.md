@@ -62,3 +62,13 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 ![Dia 7](images/CDMX%20Total%20Population%20and%20Density.png)
 
+## Día 8:
+### Mapa de las fechas de inicio de construcción de los principales transportes de la CDMX
+#### Software utilizado:
+- Python
+
+#### Origen de los datos
+- [Datos de coordenadas y fechas](https://www.citylines.co/)
+
+
+[Mapa en Tableau Public](https://public.tableau.com/shared/QS8ZYXDPK?:display_count=n&:origin=viz_share_link)
