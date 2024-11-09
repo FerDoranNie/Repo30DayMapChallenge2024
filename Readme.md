@@ -72,3 +72,5 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 [Mapa en Tableau Public](https://public.tableau.com/shared/QS8ZYXDPK?:display_count=n&:origin=viz_share_link)
+
+![Día 8](images/Metro%20CDMX%20Información%20histórica.png)
