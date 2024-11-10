@@ -74,3 +74,19 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 [Mapa en Tableau Public](https://public.tableau.com/shared/QS8ZYXDPK?:display_count=n&:origin=viz_share_link)
 
 ![Día 8](images/Metro%20CDMX%20Información%20histórica.png)
+
+
+## Día 9:
+### Mapa de comparación del top 10 de países por PIB vs sus vecinos o países cercanos
+### ¿Cuántos países se necesitan para igualar su PIB?
+#### Software utilizado:
+- R
+
+#### Origen de los datos
+- [Datos de PIB](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+- [Cartografía](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/)
+
+
+[Mapa en Tableau Public](https://public.tableau.com/views/TopCountriesvsothersGDPComparison/Top10Countriesvstheirneighborhoods?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Día 9](images/Top%2010%20Countries%20vs%20their%20neighborhoods.png)
