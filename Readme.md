@@ -90,3 +90,18 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 [Mapa en Tableau Public](https://public.tableau.com/views/TopCountriesvsothersGDPComparison/Top10Countriesvstheirneighborhoods?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Día 9](images/Top%2010%20Countries%20vs%20their%20neighborhoods.png)
+
+
+
+## Día 10:
+### Mapa animado con las proyecciones de población de la ONU para 2030, 2050, 2075 y 2100
+#### Software utilizado:
+- Python
+
+#### Origen de los datos
+- [Datos de Población](https://population.un.org/wpp/Download/)
+- [Cartografía](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/)
+
+
+
+![Día 1](images/population_map_animation.gif)
