@@ -104,4 +104,4 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 
-![Día 1](images/population_map_animation.gif)
+![Día 1](images/population_map_animation.gif    )
