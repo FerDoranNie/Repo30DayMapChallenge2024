@@ -104,4 +104,18 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 
-![Día 1](images/population_map_animation.gif    )
+![Día 10](images/population_map_animation.gif    )
+
+
+
+## Día 11:
+### Mapa animado con los países y como se ven con diferentes proyecciones geográficas
+#### Software utilizado:
+- Python
+
+#### Origen de los datos
+- [Cartografía](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/)
+
+
+
+![Día 11](images/projection_map_animation.gif)
