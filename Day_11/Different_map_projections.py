@@ -30,7 +30,7 @@ worldData= worldData[['featurecla', 'scalerank', 'labelrank', 'sovereignt', 'sov
 
 projections = {
     "EPSG:4326": "WGS 84 (Lat-Long)",           # Proyección geográfica básica
-    "EPSG:3857": "Web Mercator",                # Proyección común de mapas web
+    #"EPSG:3857": "Web Mercator",                # Proyección común de mapas web
     "ESRI:54030": "Mollweide",                  # Proyección de Mollweide
     "ESRI:54034": "Mercator",                   # Proyección de Mercator
     "ESRI:54009": "Robinson",                   # Proyección de Robinson
