@@ -119,3 +119,18 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 11](images/projection_map_animation.gif)
+
+
+
+## Día 12:
+### Mapas comparativos del consumo de agua por colonia y población en México
+#### ¿Estará correlacionado el consumo de agua con más población? 
+#### Software utilizado:
+- R
+
+#### Origen de los datos
+- [Datos](https://datos.cdmx.gob.mx/dataset/diferencia-consumo-total-sacmex)
+
+
+
+![Día 11](images/water_and_population_map_cdmx_colonies.png)
