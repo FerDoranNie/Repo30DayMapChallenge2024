@@ -133,4 +133,19 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 
-![Día 11](images/water_and_population_map_cdmx_colonies.png)
+![Día 12](images/water_and_population_map_cdmx_colonies.png)
+
+
+## Día 13:
+### Uso de suelo y vegetación en México por municipio
+#### Software utilizado:
+- R
+
+#### Origen de los datos
+- [Datos de vegetación y uso de suelo](http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/usv/inegi/usv250s7gw)
+- [Cartografía de los municipios](http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/dipol/mupal/mun23gw)
+
+
+
+![Día 13](images/Uso%20de%20suelo%20en%20México.png)
+![Día 13.5](images/Uso%20de%20suelo%20en%20México(2).png)
