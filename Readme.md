@@ -149,3 +149,18 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 ![Día 13](images/Uso%20de%20suelo%20en%20México.png)
 ![Día 13.5](images/Uso%20de%20suelo%20en%20México(2).png)
+
+
+
+## Día 14:
+### Presencia de transporte público dividido por tipo en las manzanas del área metropolitana de la CDMX
+#### Software utilizado:
+- R
+
+#### Origen de los datos
+- [Datos](http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/usv/inegi/usv250s7gw)
+
+
+
+![Día 14](images/CDMX_transport_availability_high_granularity.png)
+
