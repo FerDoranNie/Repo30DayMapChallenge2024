@@ -164,3 +164,18 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 ![Día 14](images/CDMX_transport_availability_high_granularity.png)
 
+
+
+## Día 15:
+### Producción de los principales cereales en 2022
+#### Software utilizado:
+- R
+
+[Mapa en Tableau Public](https://public.tableau.com/views/Cerealproduction2022/Produccindecereales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+#### Origen de los datos
+- [Datos](https://www.fao.org/faostat/en)
+
+
+
+![Día 15](images/Producción%20de%20cereales.png)
