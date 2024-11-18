@@ -74,9 +74,12 @@ faoData <- merge(data.table(faoData),
       by.x = 'area', by.y='sovereignt', 
       allow.cartesian = T) %>% st_as_sf()
 
-faoProductionData <- faoData %>% 
-  filter(element=='Production')
+# faoProductionData <- faoData %>% 
+#   filter(element=='Production')
 
+# faoProductionData <- faoData %>% 
+#   filter(element=='Production')
+faoProductionData <- faoData
 
 ggplot(data = faoProductionData)+
   geom_sf(aes(fill= value), color='transparent')+
@@ -93,5 +96,6 @@ ggplot(data = faoProductionData)+
 
 
 
-
-
+faoProductionData %>% 
+  st_write('Repo30DayMapChallenge2024/Data/FAOSTAT_data_edited.geojson',
+           driver = 'GEOJSON')
