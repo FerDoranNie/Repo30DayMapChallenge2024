@@ -179,3 +179,18 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 15](images/Producción%20de%20cereales.png)
+
+
+
+## Día 17:
+### Producción de los principales cereales en 2022
+#### Software utilizado:
+- R
+
+
+#### Origen de los datos
+- [Datos](https://www.inegi.org.mx/programas/ccpv/2020/#microdatos)
+
+
+
+![Día 17](images/Poblacion_acceso_servicios_salud_cdmx_ageb.png  )
