@@ -194,3 +194,19 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 17](images/Poblacion_acceso_servicios_salud_cdmx_ageb.png  )
+
+
+
+## Día 18:
+### ¿Qué tan llenas están las presas en México a finales de 2024?
+#### Software utilizado:
+- R
+
+
+#### Origen de los datos
+- [Datos de almacenamiento](https://sinav30.conagua.gob.mx:8080/SINA/?opcion=base)
+- [Cartografía de estados](http://www.conabio.gob.mx/informacion/gis/)
+
+
+
+![Día 18](images/dams_mexico_status_2024.png  )
