@@ -210,3 +210,21 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 18](images/dams_mexico_status_2024.png  )
+
+
+## Día 20:
+### ¿Cuál es el porcentaje de llenado histórico del sistema Cutzamala? 
+#### Software utilizado:
+- Python
+
+
+
+#### Origen de los datos
+- [Datos históricos](https://sinav30.conagua.gob.mx:8080/Presas/)
+- [Coordenadas](https://sinav30.conagua.gob.mx:8080/SINA/)
+
+
+[Mapa en Tableau Public](https://public.tableau.com/shared/MDMMF3FRH?:display_count=n&:origin=viz_share_link)
+
+
+![Día 20](images/Sistema%20Cutzamala%20Histórico.png )
