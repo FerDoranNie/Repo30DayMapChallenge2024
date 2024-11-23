@@ -228,3 +228,33 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 20](images/Sistema%20Cutzamala%20Histórico.png )
+
+
+## Día 21:
+### ¿Cómo es la población por municipio en México? 
+#### Software utilizado:
+- Python
+
+
+
+#### Origen de los datos
+- [Datos](https://www.inegi.org.mx/programas/ccpv/2020/#microdatos)
+
+
+
+![Día 21](images/Population_municipality_mexico_2020.png )
+
+
+## Día 22:
+### ¿Cómo ha cambiado la población por capitales y ciudades secundarias en todos los países? 
+#### Software utilizado:
+- E
+
+
+
+#### Origen de los datos
+- [Datos](https://www.inegi.org.mx/programas/ccpv/2020/#microdatos)
+
+
+
+![Día 22](images/Cities_population_over_years.gif )
