@@ -93,6 +93,13 @@ mainMap <- ggplot(populatedPlaces, aes(x= lon, y= lat, size = population, color=
                          pad_y = unit(0.5, 'in'), 
                          style = north_arrow_fancy_orienteering)+
   theme_minimal(base_size = 30) +
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.title.y=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank()
+        )+
   transition_time(population_year) +
   shadow_mark(past = FALSE, future = FALSE)
   
@@ -100,7 +107,7 @@ mainMap <- ggplot(populatedPlaces, aes(x= lon, y= lat, size = population, color=
 length(populatedPlaces$population_year %>%  unique)
   
 animate(mainMap, renderer = gifski_renderer("./Repo30DayMapChallenge2024/images/Cities_population_over_years.gif"), 
-        width = 2400, height = 1600, nframes = 300,
+        width = 1200, height = 800, nframes = 300,
          duration=15, transition_states = transition_states(population_year, transition_length = 0, state_length = 1))
 
 

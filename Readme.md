@@ -248,7 +248,7 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 ## Día 22:
 ### ¿Cómo ha cambiado la población por capitales y ciudades secundarias en todos los países? 
 #### Software utilizado:
-- E
+- R
 
 
 
@@ -258,3 +258,21 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 22](images/Cities_population_over_years.gif )
+
+
+
+## Día 23:
+### ¿Cómo ha sido la densidad de delitos histórica en la CDMX? 
+#### Software utilizado:
+- No se uso lenguaje de programación
+- Tableau Public
+
+
+
+#### Origen de los datos
+- [Datos](https://datos.cdmx.gob.mx/dataset/victimas-en-carpetas-de-investigacion-fgj)
+
+
+[Mapa en Tableau Public](https://public.tableau.com/views/DelitosCDMX_17324215654990/DelitosdelaCDMXVistahistrica?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Día 23](images/Delitos%20de%20la%20CDMX%20Vista%20histórica.png )
