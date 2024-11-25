@@ -253,7 +253,7 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 #### Origen de los datos
-- [Datos](https://www.inegi.org.mx/programas/ccpv/2020/#microdatos)
+- [Datos](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
 
 
@@ -276,3 +276,19 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 [Mapa en Tableau Public](https://public.tableau.com/views/DelitosCDMX_17324215654990/DelitosdelaCDMXVistahistrica?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Día 23](images/Delitos%20de%20la%20CDMX%20Vista%20histórica.png )
+
+
+
+## Día 24:
+### ¿Cómo ha sido la densidad de delitos histórica en la CDMX? 
+#### Software utilizado:
+- R
+
+
+
+#### Origen de los datos
+- [Datos](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
+
+
+
+![Día 24](images/Time_zones_from_mexico_city_point_of_view.png )
