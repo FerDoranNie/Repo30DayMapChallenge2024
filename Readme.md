@@ -292,3 +292,34 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 24](images/Time_zones_from_mexico_city_point_of_view.png )
+
+
+
+## Día 25:
+### ¿Cómo han migrado las personas dentro del territorio mexicano? 
+#### Software utilizado:
+- R
+
+
+
+#### Origen de los datos
+- [Datos](https://hub.worldpop.org/geodata/summary?id=1283)
+
+
+
+![Día 25](images/Centro_Sur_migration_flux.png )
+
+
+## Día 26:
+### ¿Cómo ha sido el porcentaje de migración por municipio en México? 
+#### Software utilizado:
+- Python
+
+
+
+#### Origen de los datos
+- [Datos](https://www.inegi.org.mx/temas/migracion/#tabulados)
+
+
+
+![Día 26](images/migration_map_mexico_2020.png )
