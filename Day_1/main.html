@@ -1,0 +1,42 @@
+<!-----
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>D3 world map</title>
+<link rel="stylesheet" type="text/css" href="./inspector.css">
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.3.0/d3.min.js">
+</script>
+<script type="module">
+import define from "./index.js";
+import {Runtime, Library, Inspector} from "./my_first_map_in_d3.js";
+
+const runtime = new Runtime();
+const main = runtime.module(define, Inspector.into(document.body));
+
+
+
+</script>
+
+
+
+map = htl.html`<svg viewBox="0 0 ${width} ${height}" style="display: block;">
+    <path d="${path(outline)}" fill="#c5fcfa"></path>
+    <path d="${path(graticule)}" stroke="#ccc" fill="none"></path>
+    <path d="${path(land)}" fill = "#d3d9bd"></path>
+    <path d="${path(borders)}" fill="none" stroke="#000"></path>
+    <path d="${path(outline)}" fill="none" stroke="#d3d9bd"></path>
+</svg>`
+>
+
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+
+<!-- Create an element where the map will take place -->
+<svg id="my_dataviz" width="400" height="300"></svg>
+<script src="./my_first_map_in_d3.js"></script>

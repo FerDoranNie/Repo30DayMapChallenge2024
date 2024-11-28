@@ -1,6 +1,25 @@
 # 30DayMapChallenge
 Este es mi repositorio donde guardaré los códigos para hacer los mapas para el challenge.
 
+## Día 1:
+### Mi primer mapa en D3
+#### Software utilizado:
+- Javascript
+
+#### Origen de los datos 
+- [Datos](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
+
+![Dia 1](images/my_first_d3_map.png)
+
+
+
+[Mapa en Tableau Public](https://public.tableau.com/views/CDMXSUBWAYANGENERALOVERVIEW/MetrodelaCiudaddeMxico?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+![Dia 4](images/Metro%20de%20la%20Ciudad%20de%20México.png)
+
+
+
 ## Día 4:
 ### Mapa de la afluencia de pasajeros en el metro de la CDMX
 #### Software utilizado:
@@ -323,3 +342,18 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 26](images/migration_map_mexico_2020.png )
+
+
+
+## Día 27:
+### ¿Cómo se verían México, Brasil, Australia o China si estuvieran en el centro del mundo? 
+#### Software utilizado:
+- Python
+
+
+
+#### Origen de los datos
+- [Datos](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
+
+
+![Día 27](images/country_México_center_map.png )
