@@ -1,4 +1,4 @@
-# 30DayMapChallenge
+# 30DayMapChallenge 2024
 Este es mi repositorio donde guardaré los códigos para hacer los mapas para el challenge.
 
 ## Día 1:
@@ -11,6 +11,16 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 ![Dia 1](images/my_first_d3_map.png)
 
+
+## Día 2:
+### ¿Cuál es el coeficiente de Gini por municipio en México en 2018? (No publicado)
+#### Software utilizado:
+- Python
+
+#### Origen de los datos 
+- [Datos Coneval](https://sistemas.coneval.org.mx/DATAMUN/mapas?e=11&m=11006&sg=32&g=33)
+
+![Dia 2](images/coeficiente_de_gini_2018.png)
 
 
 
