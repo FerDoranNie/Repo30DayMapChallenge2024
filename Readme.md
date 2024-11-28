@@ -2,7 +2,7 @@
 Este es mi repositorio donde guardaré los códigos para hacer los mapas para el challenge.
 
 ## Día 1:
-### Mi primer mapa en D3
+### Mi primer mapa en D3 (No publicado)
 #### Software utilizado:
 - Javascript
 
@@ -11,12 +11,6 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 ![Dia 1](images/my_first_d3_map.png)
 
-
-
-[Mapa en Tableau Public](https://public.tableau.com/views/CDMXSUBWAYANGENERALOVERVIEW/MetrodelaCiudaddeMxico?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
-![Dia 4](images/Metro%20de%20la%20Ciudad%20de%20México.png)
 
 
 
@@ -202,7 +196,7 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ## Día 17:
-### Producción de los principales cereales en 2022
+### ¿Cuál es el porcentaje de población afiliada a servicios de salud por colonia en México?
 #### Software utilizado:
 - R
 
@@ -299,7 +293,7 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ## Día 24:
-### ¿Cómo ha sido la densidad de delitos histórica en la CDMX? 
+### ¿Cuál es la diferencia en horas de las diferentes zonas horarias desde el centro de México? 
 #### Software utilizado:
 - R
 

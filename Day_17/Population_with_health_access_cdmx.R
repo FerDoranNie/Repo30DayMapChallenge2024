@@ -66,7 +66,7 @@ censusData <- censusData %>%  st_as_sf()
 ggplot(data = censusData) +
   geom_sf(aes(fill= percentPopulationHealth), color='black')+
   scale_fill_viridis_c(option = 'cividis', name='% de Población afiliada a servicios de salud', direction = -1)+
-  labs(title = 'Sistemas de transporte por manzana', 
+  labs(title = 'Porcentaje de población afiliada a servicios de salud en la ciudad de México', 
         subtitle='Área metropolitana de la ciudad de México',
         caption= 'Fuente: \n Censo de población y vivienda 2020, INEGI \n Autor:  @FerDoranNie \n#30DayMapChallenge2024')+
   # theme(panel.grid.major = element_line(color = gray(.5), 
