@@ -204,6 +204,19 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 ![Día 15](images/Producción%20de%20cereales.png)
 
 
+## Día 16:
+### ¿Cómo era la antigua Tenochtitlán? (No Publicado)
+#### Software utilizado:
+- R
+
+#### Origen de los datos
+- [Datos](https://hub.arcgis.com/datasets/vga::mesoamerican-civs/explore?layer=0)
+
+
+
+![Día 16](images/aztec_regions.png)
+
+
 
 ## Día 17:
 ### ¿Cuál es el porcentaje de población afiliada a servicios de salud por colonia en México?

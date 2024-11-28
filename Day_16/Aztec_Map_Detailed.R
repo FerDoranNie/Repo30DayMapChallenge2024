@@ -77,17 +77,32 @@ aztecMap %>%
 
 # tmap_options(check.and.fix = TRUE)
 tmap_options(check.and.fix = FALSE)
-tm_shape(aztecMap) +
+map <- tm_shape(aztecMap) +
   tm_polygons(
     'type', 
-    #palette = drought_colors, 
-    title = 'Regiones de Tenochtitlan', 
     border.alpha = 0.9,
     border.col='transparent'
+  )+
+  tm_add_legend(type = 'title', title='Fuente: https://hub.arcgis.com/datasets/vga::mesoamerican-civs/explore?layer=0  \n #30DayMapChallenge \n @FerDoranNie', 
+  col = 'white', border.col = 'white', size=100)+
+  tm_layout(
+    main.title = 'Regiones de Tenochtitlán antes de la conquista',
+    main.title.size =2,
+    main.title.position = 'left',
+    legend.outside=TRUE,
+    legend.position = c("left", "bottom"),
+    legend.text.size = 1,
+    legend.title.size = 1.5,
+    outer.margins = c(0.05, 0.05, 0.15, 0.05),
+    panel.label.size = 1, 
+    panel.label.bg.color = '#9d99bc',
+    fontfamily = "serif"
   )
 
 
+#map
 
+tmap_save(map, filename = "Repo30DayMapChallenge2024/images/aztec_regions.png",height = 8.27, width = 11.69, dpi=600)
 
 
 
