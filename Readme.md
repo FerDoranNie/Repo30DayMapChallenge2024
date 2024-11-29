@@ -374,3 +374,22 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 27](images/country_México_center_map.png )
+
+
+
+## Día 28:
+### ¿Cómo es la comparativa en términos de PIB de cada estado de México vs los demás países del mundo? 
+#### Software utilizado:
+- Python
+- Qgis
+
+
+
+#### Origen de los datos
+- [Datos Tipo de cambio](https://www.banxico.org.mx/tipcamb/main.do?page=tip&idioma=sp)
+- [Datos PIB Estados INEGI](https://www.inegi.org.mx/temas/pib/)
+- [Datos PIB Paises del mundo](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+- [Cartografía y códigos ISO de los países](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/)
+
+
+![Día 28](images/Mexican_states_vs_other_countries.png )
