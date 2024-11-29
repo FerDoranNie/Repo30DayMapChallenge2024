@@ -23,6 +23,16 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 ![Dia 2](images/coeficiente_de_gini_2018.png)
 
 
+## Día 3:
+### Mapa animado de Ciudad de México a Brasilia (No publicado)
+#### Software utilizado:
+- Javascript
+
+#### Origen de los datos 
+- [Cartografía ](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/)
+
+![Dia 3](images/D3_second_map.gif)
+
 
 ## Día 4:
 ### Mapa de la afluencia de pasajeros en el metro de la CDMX
@@ -246,6 +256,17 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 18](images/dams_mexico_status_2024.png  )
+
+## Día 19:
+### Mapa en D3 con una ruta a diferentes capitales (No publicado)
+#### Software utilizado:
+- Javascript
+
+#### Origen de los datos 
+- [Cartografía ](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/)
+
+![Dia 3](images/D3_third_map.png)
+
 
 
 ## Día 20:
