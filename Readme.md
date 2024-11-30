@@ -430,3 +430,5 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 ![Día 29](images/world_population_per_countries_and_their_regions.png )
 ![Día 29_1](images/Asia_population_per_countries_and_their_regions.png)
+
+[Mapa Interactivo en Tableau Public](https://public.tableau.com/views/Population_countries_and_subregions/MapPopulationsubcategories?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
