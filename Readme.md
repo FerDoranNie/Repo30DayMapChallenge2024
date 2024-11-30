@@ -414,3 +414,19 @@ Este es mi repositorio donde guardaré los códigos para hacer los mapas para el
 
 
 ![Día 28](images/Mexican_states_vs_other_countries.png )
+
+
+## Día 29:
+### Población de las diferentes subáreas (provicias/estados etc) de todos los países. 
+#### Software utilizado:
+- Python
+
+
+
+#### Origen de los datos
+- [Datos Población](hhttps://www.wikidata.org/)
+- [Cartografía](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
+
+
+![Día 29](images/world_population_per_countries_and_their_regions.png )
+![Día 29_1](images/Asia_population_per_countries_and_their_regions.png)
